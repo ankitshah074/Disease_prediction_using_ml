@@ -1,5 +1,6 @@
-# E-CHIKITSALEYA
+# E-CHIKITSALEYA (https://diseasepredictionusingml-2appywclqgayutykfbw48er.streamlit.app/)
 (A WEB INERFACE FOR DISEASE PREDICTION SYSTEM)
+
 
 # PROPOSED SYSTEM
 Most of the chronic diseases are
