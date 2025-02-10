@@ -1,5 +1,6 @@
 # E-CHIKITSALEYA 
 (https://diseasepredictionusingml-2appywclqgayutykfbw48er.streamlit.app/)
+
 (A WEB INERFACE FOR DISEASE PREDICTION SYSTEM)
 
 
